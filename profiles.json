@@ -1,0 +1,12 @@
+{"Test": {
+   "inID": "Mobile Line Part Number",
+   "inIDTrailingChars": "DPSP",
+   "outFile": "C:\\Users\\an2\\Desktop\\3XCInventoryFeed.csv",
+   "addInFile": "C:\\Users\\an2\\Desktop\\Inventory Tools\\Feeds\\ML\\images.csv",
+   "name": "Test",
+   "outID": "SKU <sku>",
+   "inventoryBuffer": "2",
+   "inIDLeadingChars": "",
+   "inFile": "C:\\Users\\an2\\Desktop\\NEW INVT.csv",
+   "inventoryField": "Qty <qty> (admin)"
+}}
